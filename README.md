@@ -1,10 +1,10 @@
-# employee-manager-app by Michael Wegter
+# zwee-commerce by Michael Wegter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
 ## Description
 
-This repo contains an app for building the back end of an e-commerce site. The app uses node.js and mysql2 to keep a database, and Express.js and Sequelize to interact with the MySQL database.
+This repo contains an app for building the back end of an e-commerce site. The app uses node.js and mysql2 to keep a database, and Express.js and Sequelize to interact with the MySQL database. This is for U of M fullstack bootcamp challenge 13.
       
 ## Table of Contents
 1. [Install Instructions](#install-instructions)
