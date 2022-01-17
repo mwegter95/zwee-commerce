@@ -20,14 +20,15 @@ This application requires Node.js. Download the repository and run 'npm i' to in
 ## Usage Instructions
 
 ### Local
-To run the application locally, open the terminal and run 'node index'.
+To run the application locally, open the terminal and run 'node server'.
 
 ### Live
-There is no live deployment for this application. Please run locally. However the files are hosted on Heroku, which you can use to access the routes through a program like Insomnia. [Heroku: https://zwee-commerce.herokuapp.com/](https://zwee-commerce.herokuapp.com/)
+There is no live deployment for this application. Please run locally. However the files are hosted on Heroku, which you can use to access the routes through a program like Insomnia. 
+<a href="https://zwee-commerce.herokuapp.com/" target="_blank">Heroku: https://zwee-commerce.herokuapp.com/</a>
 
 
 ### Demonstration Video
-[demo video link: https://watch.screencastify.com/v/HxBrz5gaSO4kddsyNEVt](https://watch.screencastify.com/v/HxBrz5gaSO4kddsyNEVt)
+<a href="https://watch.screencastify.com/v/HxBrz5gaSO4kddsyNEVt" target="_blank">https://watch.screencastify.com/v/HxBrz5gaSO4kddsyNEVt</a>
 
 
 ## License
